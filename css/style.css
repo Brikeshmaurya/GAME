@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+     
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      
+}
+ h1{
+    text-align: center;
+ }
+h2{
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;;
+     
+}
+.btn{
+    height: 180px;
+    width: 180px;
+    border-radius: 20%;
+    background-color: aqua;
+    margin:2rem;
+    cursor: pointer;
+    border:8px solid
+}
+.pink{
+    background-color: rgb(213, 55, 82);
+}
+.green{
+    background-color: rgb(185, 104, 23);
+}
+.orange{
+    background-color: rgb(32, 126, 208);
+}
+.blue{
+    background-color: rgb(134, 45, 181);
+}
+
+.flash{
+    background-color: whitesmoke;
+}
+.userFlash{
+    background-color: rgb(39, 173, 39);
+}
+
+.footer{
+    text-align: end;
+    /* background-color: rgb(145, 214, 214); */
+    margin-top: 30px;
+     font-size: 12px;
+
+}
